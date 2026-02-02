@@ -22,10 +22,10 @@ TAB_MAPPING = {
     [125] = { "World Map" }, --Skyferry/Sky Saloon
     [126] = { "World Map" }, --Skyferry/Air Deck
 
-    [129] = { "Map Select", "Estersand", "South"}, --South Bank Village
-    [130] = { "Map Select", "Estersand", "North"}, --North Bank Village
-    [132] = { "Map Select", "Estersand", "North"}, --The Yoma
-    [133] = { "Map Select", "Estersand", "North"}, --Broken Sands
+    [129] = { "Map Select", "Estersand", "Dalmasca Estersand", "South"}, --South Bank Village
+    [130] = { "Map Select", "Estersand", "Dalmasca Estersand", "North"}, --North Bank Village
+    [132] = { "Map Select", "Estersand", "Dalmasca Estersand", "North"}, --The Yoma
+    [133] = { "Map Select", "Estersand", "Dalmasca Estersand", "North"}, --Broken Sands
 
     [137] = { "Map Select", "Tchita Uplands" }, --Uazcuff Hills
     [138] = { "Map Select", "Tchita Uplands" }, --Sundered Earth
@@ -85,13 +85,13 @@ TAB_MAPPING = {
     [220] = { "Map Select", "Mosphoran Highwaste" }, --Halny Crossing
     [223] = { "Map Select", "Mosphoran Highwaste" }, --Empyrean Seat (Exodus)
 
-    [227] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --The Stepping
-    [228] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Yardang Labyrinth
-    [229] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Sand-swept Naze
-    [230] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Banks of the Nebra
-    [231] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Passage Entrance
-    [231] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Murmuring Defile
-    [233] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Outpost
+    [227] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --The Stepping
+    [228] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Yardang Labyrinth
+    [229] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Sand-swept Naze
+    [230] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Banks of the Nebra
+    [231] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Passage Entrance
+    [231] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Murmuring Defile
+    [233] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Outpost
     
     [236] = { "Map Select", "Giza Plains", "Dry Season" }, --Throne Road
     [237] = { "Map Select", "Giza Plains", "Dry Season" }, --Warrior's Wash
@@ -161,13 +161,13 @@ TAB_MAPPING = {
 
     [342] = { "Rabanastre", "Garamsythe Waterway" }, --No. 1 Cloaca (Water Drained)
 
-    [345] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Galtea Downs
-    [346] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Corridor of Sand
-    [347] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Shimmering Horizons
-    [348] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --The Midfault
-    [349] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Windtrace Dunes
-    [350] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --The Western Divide
-    [354] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Wyrm's Nest
+    [345] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Galtea Downs
+    [346] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Corridor of Sand
+    [347] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Shimmering Horizons
+    [348] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --The Midfault
+    [349] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Windtrace Dunes
+    [350] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --The Western Divide
+    [354] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Wyrm's Nest
 
     [357] = { "Bhujerba", "Lhusu Mines" }, --Shaft Entry
     [358] = { "Bhujerba", "Lhusu Mines" }, --Oltam Span
