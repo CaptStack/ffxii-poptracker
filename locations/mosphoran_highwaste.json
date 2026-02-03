@@ -3,12 +3,28 @@
     "name": "Mosphoran Highwaste",
     "children": [
       {
-        "name": "Mosphoran Highwaste Camp",
+        "name": "Empyrean Way Treasure 5",
         "map_locations": [
           {
             "map": "mosphoran_highwaste",
-            "x": 515,
-            "y": 730
+            "x": 655,
+            "y": 755
+          }
+        ],
+        "sections": [
+          {
+            "name": "Empyrean Way Treasure 5",
+            "ref": "Main/Mosphoran Highwaste/Empyrean Way Treasure 5"
+          }
+        ]
+      },
+      {
+        "name": "Unmapped Chests",
+        "map_locations": [
+          {
+            "map": "mosphoran_highwaste",
+            "x": 390,
+            "y": 890
           }
         ],
         "sections": [
@@ -95,10 +111,6 @@
           {
             "name": "Empyrean Way Treasure 4",
             "ref": "Main/Mosphoran Highwaste/Empyrean Way Treasure 4"
-          },
-          {
-            "name": "Empyrean Way Treasure 5",
-            "ref": "Main/Mosphoran Highwaste/Empyrean Way Treasure 5"
           },
           {
             "name": "Skyreach Ridge Treasure 1",
@@ -195,7 +207,19 @@
           {
             "name": "Babbling Vale Treasure 4",
             "ref": "Main/Mosphoran Highwaste/Babbling Vale Treasure 4"
-          },
+          }
+        ]
+      },
+      {
+        "name": "Mosphoran Highwaste Camp",
+        "map_locations": [
+          {
+            "map": "mosphoran_highwaste",
+            "x": 515,
+            "y": 730
+          }
+        ],
+        "sections": [
           {
             "name": "Hunt 19: Braegh - Va'Kansa",
             "ref": "Main/Mosphoran Highwaste/Hunt 19: Braegh"

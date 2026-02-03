@@ -23,7 +23,103 @@
         ]
       },
       {
-        "name": "Chests",
+        "name": "Realm of the Elder Dream Treasure 3",
+        "map_locations": [
+          {
+            "map": "tchita_uplands",
+            "x": 680,
+            "y": 440
+          }
+        ],
+        "sections": [
+          {
+            "name": "Realm of the Elder Dream Treasure 3",
+            "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 3"
+          }
+        ]
+      },
+      {
+        "name": "Realm of the Elder Dream Treasure 7",
+        "map_locations": [
+          {
+            "map": "tchita_uplands",
+            "x": 700,
+            "y": 585
+          }
+        ],
+        "sections": [
+          {
+            "name": "Realm of the Elder Dream Treasure 7",
+            "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 7"
+          }
+        ]
+      },
+      {
+        "name": "Realm of the Elder Dream Treasure 10",
+        "map_locations": [
+          {
+            "map": "tchita_uplands",
+            "x": 765,
+            "y": 460
+          }
+        ],
+        "sections": [
+          {
+            "name": "Realm of the Elder Dream Treasure 10",
+            "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 10"
+          }
+        ]
+      },
+      {
+        "name": "The Skytrail Treasure 5",
+        "map_locations": [
+          {
+            "map": "tchita_uplands",
+            "x": 965,
+            "y": 545
+          }
+        ],
+        "sections": [
+          {
+            "name": "The Skytrail Treasure 5",
+            "ref": "Main/Tchita Uplands/The Skytrail Treasure 5"
+          }
+        ]
+      },
+      {
+        "name": "The Skytrail Treasure 7",
+        "map_locations": [
+          {
+            "map": "tchita_uplands",
+            "x": 970,
+            "y": 635
+          }
+        ],
+        "sections": [
+          {
+            "name": "The Skytrail Treasure 7",
+            "ref": "Main/Tchita Uplands/The Skytrail Treasure 7"
+          }
+        ]
+      },
+      {
+        "name": "The Skytrail Treasure 10",
+        "map_locations": [
+          {
+            "map": "tchita_uplands",
+            "x": 1135,
+            "y": 460
+          }
+        ],
+        "sections": [
+          {
+            "name": "The Skytrail Treasure 10",
+            "ref": "Main/Tchita Uplands/The Skytrail Treasure 10"
+          }
+        ]
+      },
+      {
+        "name": "Unmapped Chests",
         "map_locations": [
           {
             "map": "tchita_uplands",
@@ -217,16 +313,8 @@
             "ref": "Main/Tchita Uplands/The Skytrail Treasure 4"
           },
           {
-            "name": "The Skytrail Treasure 5",
-            "ref": "Main/Tchita Uplands/The Skytrail Treasure 5"
-          },
-          {
             "name": "The Skytrail Treasure 6",
             "ref": "Main/Tchita Uplands/The Skytrail Treasure 6"
-          },
-          {
-            "name": "The Skytrail Treasure 7",
-            "ref": "Main/Tchita Uplands/The Skytrail Treasure 7"
           },
           {
             "name": "The Skytrail Treasure 8",
@@ -237,20 +325,12 @@
             "ref": "Main/Tchita Uplands/The Skytrail Treasure 9"
           },
           {
-            "name": "The Skytrail Treasure 10",
-            "ref": "Main/Tchita Uplands/The Skytrail Treasure 10"
-          },
-          {
             "name": "Realm of the Elder Dream Treasure 1",
             "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 1"
           },
           {
             "name": "Realm of the Elder Dream Treasure 2",
             "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 2"
-          },
-          {
-            "name": "Realm of the Elder Dream Treasure 3",
-            "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 3"
           },
           {
             "name": "Realm of the Elder Dream Treasure 4",
@@ -265,20 +345,12 @@
             "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 6"
           },
           {
-            "name": "Realm of the Elder Dream Treasure 7",
-            "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 7"
-          },
-          {
             "name": "Realm of the Elder Dream Treasure 8",
             "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 8"
           },
           {
             "name": "Realm of the Elder Dream Treasure 9",
             "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 9"
-          },
-          {
-            "name": "Realm of the Elder Dream Treasure 10",
-            "ref": "Main/Tchita Uplands/Realm of the Elder Dream Treasure 10"
           },
           {
             "name": "The Lost Way Treasure 1",
