@@ -33,6 +33,7 @@ return {
 	[32901] = {"med_lusterless", "toggle"},
 	[32899] = {"med_might", "toggle"},
 	[32905] = {"anns_letter", "toggle"},
+	[32881] = {"writ", "toggle"},
 	[32884] = {"cactus_flower", "toggle"},
 	[32943] = {"broken_key", "toggle"},
 	[32903] = {"errmonea_leaf", "toggle"},
