@@ -9,6 +9,10 @@
       "display_name": "Map Tracker",
       "flags": ["ap"]
     },
+    "var_cid2": {
+      "display_name": "Map Tracker (Cid 2 Goal)",
+      "flags": ["ap"]
+    },
     "var_itemsonly": {
       "display_name": "Items Only",
       "flags": ["ap"]
