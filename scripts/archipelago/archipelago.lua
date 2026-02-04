@@ -64,6 +64,10 @@ function ClearItems(slot_data)
         end
     end
 
+    if options['bahamut_unlock'] == 0 then
+        Tracker:AddLayouts("var_cid2/layouts/items.json")
+    end
+
 
     local function set_toggle(code, state)
         local obj = Tracker:FindObjectForCode(code)
@@ -205,6 +209,10 @@ function OnReply(key, value, old_value)
     print("OnReply %s", key)
     if starts_with(key, "ffxiiow_hunts") then
         local hunt_data = value
+        if not hunt_data then
+            print("Hunt data is nil")
+            return
+        end
         for i, v in pairs(hunt_data) do
             local hunt_id = i
             local stage = v

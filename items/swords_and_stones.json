@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Dawn Shard",
+        "type": "toggle",
+        "img": "images/items/dawn_shard.png",
+        "codes": "dawn_shard"
+    },
+    {
+        "name": "Goddess's Magicite",
+        "type": "toggle",
+        "img": "images/items/goddess_magicite.png",
+        "codes": "goddess_magicite"
+    },
+    {
+        "name": "Manufacted Nethicite",
+        "type": "toggle",
+        "img": "images/items/nethicite.png",
+        "codes": "nethicite"
+    },
+    {
+        "name": "Sword of Kings",
+        "type": "toggle",
+        "img": "images/items/sword_of_kings.png",
+        "codes": "sword_of_kings"
+    },
+    {
+        "name": "Treaty Blade",
+        "type": "toggle",
+        "img": "images/items/treaty_blade.png",
+        "codes": "treaty_blade"
+    }
+]

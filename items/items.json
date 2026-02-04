@@ -108,12 +108,6 @@
         "codes": "brig_key"
     },
     {
-        "name": "Dawn Shard",
-        "type": "toggle",
-        "img": "images/items/dawn_shard.png",
-        "codes": "dawn_shard"
-    },
-    {
         "name": "Shadestone",
         "type": "toggle",
         "img": "images/items/shadestone.png",
@@ -204,28 +198,10 @@
         "codes": "anns_letter"
     },
     {
-        "name": "Manufacted Nethicite",
-        "type": "toggle",
-        "img": "images/items/nethicite.png",
-        "codes": "nethicite"
-    },
-    {
         "name": "Rusted Scrap of Armor",
         "type": "toggle",
         "img": "images/items/rusted_scrap_of_armor.png",
         "codes": "rusted_scrap_of_armor"
-    },
-    {
-        "name": "Sword of Kings",
-        "type": "toggle",
-        "img": "images/items/sword_of_kings.png",
-        "codes": "sword_of_kings"
-    },
-    {
-        "name": "Treaty Blade",
-        "type": "toggle",
-        "img": "images/items/treaty_blade.png",
-        "codes": "treaty_blade"
     },
     {
         "name": "Serpentwyne Must",
@@ -288,12 +264,6 @@
         "type": "toggle",
         "img": "images/items/moonsilver_medallion.png",
         "codes": "moonsilver_medallion"
-    },
-    {
-        "name": "Goddess's Magicite",
-        "type": "toggle",
-        "img": "images/items/goddess_magicite.png",
-        "codes": "goddess_magicite"
     },
     {
         "name": "Broken Key",

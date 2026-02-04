@@ -15,7 +15,7 @@
           },
           {
             "type": "group",
-            "header": "Go Mode",
+            "header": "Go Mode (Cid 2)",
             "content": {
               "type": "itemgrid",
               "item_margin": "2, 2",
@@ -24,10 +24,14 @@
               "h_alignment": "center",
               "rows": [
                 [
-                  "access_key"
+                  "goddess_magicite",
+                  "nethicite",
+                  "dawn_shard"
                 ],
                 [
-                  "writ"
+                  "sword_of_kings",
+                  "access_key",
+                  "treaty_blade"
                 ]
               ]
             }
@@ -93,13 +97,6 @@
                   "serpentwyne",
                   "viera_rucksack",
                   "shelled_trophy"
-                ],
-                [
-                  "dawn_shard",
-                  "goddess_magicite",
-                  "nethicite",
-                  "sword_of_kings",
-                  "treaty_blade"
                 ]
               ]
             }

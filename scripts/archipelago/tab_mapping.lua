@@ -4,7 +4,7 @@ TAB_MAPPING = {
     [49] = { "Nalbina", "Nalbina Dungeons" }, --Arena
     [50] = { "Nalbina", "Nalbina Dungeons" }, --Vaan's Dream of Reks
     [51] = { "Nalbina", "Nalbina Dungeons" }, --Oubliette (Basch's Prison Cell)
-    
+
     [53] = { "Map Select", "Estersand", "Barheim Passage", "Barheim Top" }, --The Lightworks
     [54] = { "Map Select", "Estersand", "Barheim Passage", "Barheim Top" }, --Great Eastern Passage
     [55] = { "Map Select", "Estersand", "Barheim Passage", "Barheim Top" }, --Op Sector 36
@@ -22,10 +22,10 @@ TAB_MAPPING = {
     [125] = { "World Map" }, --Skyferry/Sky Saloon
     [126] = { "World Map" }, --Skyferry/Air Deck
 
-    [129] = { "Map Select", "Estersand", "South"}, --South Bank Village
-    [130] = { "Map Select", "Estersand", "North"}, --North Bank Village
-    [132] = { "Map Select", "Estersand", "North"}, --The Yoma
-    [133] = { "Map Select", "Estersand", "North"}, --Broken Sands
+    [129] = { "Map Select", "Estersand", "Dalmasca Estersand", "South"}, --South Bank Village
+    [130] = { "Map Select", "Estersand", "Dalmasca Estersand", "North"}, --North Bank Village
+    [132] = { "Map Select", "Estersand", "Dalmasca Estersand", "North"}, --The Yoma
+    [133] = { "Map Select", "Estersand", "Dalmasca Estersand", "North"}, --Broken Sands
 
     [137] = { "Map Select", "Tchita Uplands" }, --Uazcuff Hills
     [138] = { "Map Select", "Tchita Uplands" }, --Sundered Earth
@@ -85,14 +85,14 @@ TAB_MAPPING = {
     [220] = { "Map Select", "Mosphoran Highwaste" }, --Halny Crossing
     [223] = { "Map Select", "Mosphoran Highwaste" }, --Empyrean Seat (Exodus)
 
-    [227] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --The Stepping
-    [228] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Yardang Labyrinth
-    [229] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Sand-swept Naze
-    [230] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Banks of the Nebra
-    [231] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Passage Entrance
-    [231] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Murmuring Defile
-    [233] = { "Map Select", "Dalmasca Estersand", "Dalmasca Estersand", "South" }, --Outpost
-    
+    [227] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --The Stepping
+    [228] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Yardang Labyrinth
+    [229] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Sand-swept Naze
+    [230] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Banks of the Nebra
+    [231] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Passage Entrance
+    [231] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Murmuring Defile
+    [233] = { "Map Select", "Estersand", "Dalmasca Estersand", "South" }, --Outpost
+
     [236] = { "Map Select", "Giza Plains", "Dry Season" }, --Throne Road
     [237] = { "Map Select", "Giza Plains", "Dry Season" }, --Warrior's Wash
     [238] = { "Map Select", "Giza Plains", "Dry Season" }, --Gizas North Bank
@@ -120,7 +120,7 @@ TAB_MAPPING = {
     [282] = { "Nalbina", "Nalbina Fortress" }, --The Highhall
 
     [286] = { "Archades", "Draklor Laboratory" }, --Energy Transitarium
-    
+
     [289] = { "Rabanastre", "Rabanastre" }, --North End
     [290] = { "Rabanastre", "Rabanastre" }, --Muthru Bazaar
     [291] = { "Rabanastre", "Rabanastre" }, --East End
@@ -150,7 +150,7 @@ TAB_MAPPING = {
     [322] = { "Rabanastre", "Garamsythe Waterway" }, --Central Waterway Control (1st Visit)
     [326] = { "Rabanastre", "Garamsythe Waterway" }, --Southern Sluiceway (1st Visit)
     [329] = { "Rabanastre", "Garamsythe Waterway" }, --Overflow Cloaca (Firemane)
-    
+
     [332] = { "Map Select", "The Feywood", "The Great Crystal", "Lower" }, --A Vikaari Bhrum (Way Stone IV)
     [333] = { "Map Select", "The Feywood", "The Great Crystal", "Lower" }, --Trahk Pis Praa
     [334] = { "Map Select", "The Feywood", "The Great Crystal", "Lower" }, --Sthaana Pisces
@@ -161,13 +161,13 @@ TAB_MAPPING = {
 
     [342] = { "Rabanastre", "Garamsythe Waterway" }, --No. 1 Cloaca (Water Drained)
 
-    [345] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Galtea Downs
-    [346] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Corridor of Sand
-    [347] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Shimmering Horizons
-    [348] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --The Midfault
-    [349] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Windtrace Dunes
-    [350] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --The Western Divide
-    [354] = { "Map Select", "Dalmasca Westersand", "Dalmasca Westersand" }, --Wyrm's Nest
+    [345] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Galtea Downs
+    [346] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Corridor of Sand
+    [347] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Shimmering Horizons
+    [348] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --The Midfault
+    [349] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Windtrace Dunes
+    [350] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --The Western Divide
+    [354] = { "Map Select", "Westersand", "Dalmasca Westersand" }, --Wyrm's Nest
 
     [357] = { "Bhujerba", "Lhusu Mines" }, --Shaft Entry
     [358] = { "Bhujerba", "Lhusu Mines" }, --Oltam Span
@@ -299,7 +299,7 @@ TAB_MAPPING = {
     [570] = { "Rabanastre", "Royal Palace" }, --Secret Passage
     [571] = { "Rabanastre", "Royal Palace" }, --Treasure Room
     [572] = { "Rabanastre", "Royal Palace" }, --The Garden Stairs
-    
+
     [576] = { "Map Select", "Westersand", "Zertinan Caverns" }, --Invitation to Heresy
     [577] = { "Map Select", "Westersand", "Zertinan Caverns" }, --Sandfalls
     [578] = { "Map Select", "Westersand", "Zertinan Caverns" }, --Hourglass Basin
@@ -476,7 +476,7 @@ TAB_MAPPING = {
     [895] = { "Map Select", "Estersand", "Barheim Passage", "Barheim Bottom" }, --Special Op Sector 35
 
     [898] = {"Map Select", "Ridorana", "Ridorana Cataract" }, --Colosseum
-    
+
     [901] = { "Bhujerba", "Lhusu Mines" }, --Lasche Span
     [902] = { "Bhujerba", "Lhusu Mines" }, --Site 5
     [903] = { "Bhujerba", "Lhusu Mines" }, --Site 6 South
@@ -554,7 +554,7 @@ TAB_MAPPING = {
     [1008] = { "Archades", "Draklor Laboratory" }, --66th Floor (Before Entering C.D.B)
     [1019] = { "Archades", "Draklor Laboratory" }, --67th Floor (Before Entering C.D.B)
     [1030] = { "Archades", "Draklor Laboratory" }, --68th Floor (Before Entering C.D.B)
-    
+
     [1036] = { "Archades", "Draklor Laboratory" }, --66th Floor
     [1037] = { "Archades", "Draklor Laboratory" }, --Rm 6613 West
     [1038] = { "Archades", "Draklor Laboratory" }, --Rm 6613 East
@@ -590,7 +590,7 @@ TAB_MAPPING = {
     [1103] = { "Map Select", "Ridorana", "The Pharos", "Second Ascent", "Bottom" }, --The Reach
     [1104] = { "Map Select", "Ridorana", "The Pharos", "Second Ascent", "Top" }, --Reach of the Damned
     [1105] = { "Map Select", "Ridorana", "The Pharos", "Second Ascent", "Top" }, --Reach of the Occult
-    
+
     [1111] = { "Map Select", "Ridorana", "The Pharos", "First Ascent", "Bottom" }, --Wellspring Labyrinth
     [1113] = { "Map Select", "Ridorana", "The Pharos", "First Ascent", "Bottom" }, --Dunes of Profaning Wind
     [1114] = { "Map Select", "Ridorana", "The Pharos", "First Ascent", "Bottom" }, --Blackrock Vault
