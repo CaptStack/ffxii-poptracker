@@ -209,6 +209,10 @@ function OnReply(key, value, old_value)
     print("OnReply %s", key)
     if starts_with(key, "ffxiiow_hunts") then
         local hunt_data = value
+        if not hunt_data then
+            print("Hunt data is nil")
+            return
+        end
         for i, v in pairs(hunt_data) do
             local hunt_id = i
             local stage = v
