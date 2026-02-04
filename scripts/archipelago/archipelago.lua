@@ -64,6 +64,10 @@ function ClearItems(slot_data)
         end
     end
 
+    if options['bahamut_unlock'] == 0 then
+        Tracker:AddLayouts("var_cid2/layouts/items.json")
+    end
+
 
     local function set_toggle(code, state)
         local obj = Tracker:FindObjectForCode(code)
